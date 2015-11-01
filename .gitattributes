@@ -1,1 +1,2 @@
 *.ejs linguist-language=HTML
+*.coffee linguist-language=CoffeeScript
