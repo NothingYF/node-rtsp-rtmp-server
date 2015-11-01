@@ -1,0 +1,14 @@
+{
+  "name": "node-rtsp-rtmp-server",
+  "version": "0.3.2",
+  "description": "RTSP/RTMP/HTTP hybrid server",
+  "author": "mhsjlw <mhsjlw@aol.com>",
+  "main": "server.js",
+  "dependencies": {
+    "ejs"    : "0.8.x",
+    "sequent": ">= 0.1.2"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
